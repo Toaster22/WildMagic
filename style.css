@@ -104,6 +104,7 @@ padding-left:5rem;
 
 	.container,.row,.col-12{
 		height:100vh;
+		cursor: default;
 	}
 
 	p{
