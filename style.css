@@ -20,7 +20,9 @@ body {
   text-align:left;
   font-size:2.5rem;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; }
+  -moz-osx-font-smoothing: grayscale; 
+  cursor: default;
+}
 
   .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
